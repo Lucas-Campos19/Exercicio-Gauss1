@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\Exercicio Gauss 1\Exercicio Gauss 1\bin\Debug\Exercicio Gauss 1.exe.config
+C:\Users\lucas\source\repos\Exercicio Gauss 1\Exercicio Gauss 1\bin\Debug\Exercicio Gauss 1.exe
+C:\Users\lucas\source\repos\Exercicio Gauss 1\Exercicio Gauss 1\bin\Debug\Exercicio Gauss 1.pdb
+C:\Users\lucas\source\repos\Exercicio Gauss 1\Exercicio Gauss 1\obj\Debug\Exercicio Gauss 1.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Exercicio Gauss 1\Exercicio Gauss 1\obj\Debug\Exercicio Gauss 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Exercicio Gauss 1\Exercicio Gauss 1\obj\Debug\Exercicio Gauss 1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Exercicio Gauss 1\Exercicio Gauss 1\obj\Debug\Exercicio Gauss 1.exe
+C:\Users\lucas\source\repos\Exercicio Gauss 1\Exercicio Gauss 1\obj\Debug\Exercicio Gauss 1.pdb
